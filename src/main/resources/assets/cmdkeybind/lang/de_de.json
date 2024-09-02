@@ -1,0 +1,16 @@
+{
+  "key.cmdkeybind.config.title": "Kommand Makros",
+  "key.cmdkeybind.config.category.main": "Main",
+  "key.cmdkeybind.config.sub.macro": "Makro",
+  "key.cmdkeybind.config.macro.key": "Taste",
+  "key.cmdkeybind.config.macro.keymod": "Modifikator-Taste",
+  "key.cmdkeybind.config.macro.command": "Kommand",
+  "key.cmdkeybind.config.enabled": "Aktiviert",
+  "key.cmdkeybind.config.macrotype": "Art des Makros",
+  "key.cmdkeybind.config.delay": "Verzögerung (Milliseconds)",
+  "key.cmdkeybind.config.repetitions": "Wiederholungen",
+  "key.cmdkeybind.config.add": "Makro hinzufügen",
+  "key.cmdkeybind.config.remove": "Entfernen",
+  "key.categories.cmdkeybind": "Makros",
+  "key.cmdkeybind.config.openmacrokeybind": "Makro Konfigurationsfenster öffnen"
+}
